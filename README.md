@@ -1,7 +1,7 @@
 # Unit Converter – Android Application
 This project was developed to strengthen my Android development skills and demonstrate practical problem-solving using Java and Android SDK.
 
-Features :
+Features : <br>
 🔄 Convert between multiple unit types
 📐 Supports common measurement categories (e.g. Length, Weight, Volume)
 ⚡ Real-time conversion results
