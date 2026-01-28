@@ -11,7 +11,7 @@ Features : <br>
 <br>
 Technologies Used :<br>
 •Android Studio<br>
-•Java / Kotlin<br>
+•Java <br>
 •XML (for UI design)<br>
 •Android SDK<br>
 •Material Design Components<br>
