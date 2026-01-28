@@ -1,5 +1,5 @@
 # Unit Converter – Android Application
-This project was developed to strengthen my Android development skills and demonstrate practical problem-solving using Java and Android SDK.
+This project was developed to strengthen my Android development skills and demonstrate practical problem-solving using Java and Android SDK.<br>
 <br>
 Features : <br>
 🔄 Convert between multiple unit types<br>
